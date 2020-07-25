@@ -18,4 +18,4 @@ chef_version '>= 15.0'
 #
 # source_url 'https://github.com/<insert_org_here>/lamp_cookbook'
 
-depends 'mysql'
+depends 'mysql', '~> 8.5.1'
