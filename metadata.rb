@@ -1,4 +1,4 @@
-name 'lamp_cookbook'
+name 'lamp'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
