@@ -5,9 +5,9 @@
 # Copyright:: 2020, The Authors, All Rights Reserved.
 
 # Configure the MySQL client.
-# mysql_client 'default' do
-#   action :create
-# end
+mysql_client 'default' do
+  action :create
+end
 
 mysql_service 'default' do
   version '5.7'
